@@ -24,3 +24,4 @@ The model is compiled using the Adagrad optimizer and categorical crossentropy l
 After extensive training, the model achieves a test accuracy of approximately 84%, demonstrating its effectiveness in classifying fish species from images.
 
 This comprehensive approach ensures that the model is robust and capable of accurately identifying different fish species from the provided dataset.
+My kaggle https://www.kaggle.com/erayyglr
